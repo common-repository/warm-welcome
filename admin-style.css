@@ -1,0 +1,33 @@
+/* ------------------------------------------------------------ *\
+    Admin
+\* ------------------------------------------------------------ */
+.toplevel_page_crb_carbon_fields_container_warm_welcome .postbox-container { display: none; }
+
+.ww-save-options + .loading { width: 20px; height: 20px; background: blue; display: none; }
+
+.carbon-theme-options .ww-log-out { color: #334eb9; text-transform: uppercase; font-weight: 700; text-decoration: none; margin-left: 5px;  font-size: 14px; }
+.carbon-theme-options .ww-log-out:hover { opacity: 0.7; }
+
+.carbon-theme-options .button { background: #334eb9; border-color: #334eb9; }
+
+.carbon-theme-options .button:active,
+.carbon-theme-options .button:focus,
+.carbon-theme-options .button:hover { background: #334eb9; border-color: #334eb9; }
+.carbon-theme-options .button:hover {  opacity: 0.7; }
+.carbon-theme-options .button:focus { box-shadow: none; }
+
+.carbon-theme-options .ww-error-message { font-size: 17px; margin: 4px 0; color: darkred; }
+
+.carbon-theme-options .ww-loading { width: 35px; height: 35px; background: url(./resources/assets/loading.gif) no-repeat; display: inline-block; background-size: contain; vertical-align: middle; margin-left: 7px; }
+
+.carbon-theme-options .ww-logo { width: 80%; margin: 10px auto; display: block; }
+
+.carbon-theme-options select:hover { color: #666; }
+.carbon-theme-options select:focus { border-color: #334eb9; color: #666; box-shadow: 0 0 0 1px #334eb9; }
+
+.carbon-theme-options .widgets-settings p { font-size: 16px; }
+.carbon-theme-options .widgets-settings pre { font-size: 16px; }
+
+.dashicons-cake { background-image: url(./resources/assets/main-logo.svg); background-repeat: no-repeat; background-position: center; background-size: 20px; }
+
+.block-editor .cf-container .cf-field { padding: 0 15px 15px; }
